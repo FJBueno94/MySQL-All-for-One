@@ -1,2 +1,2 @@
-SELECT notes FROM northwind_2.purchase_orders
+SELECT notes FROM northwind.purchase_orders
 WHERE notes <> 'null'
